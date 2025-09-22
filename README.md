@@ -1,2 +1,4 @@
 # PROYECTO-SIGT
-control de versiones, del proyecto formativo del tecnólogo en ADSO en el Sena
+Desarrollar un sistema integral que permita la gestión de usuarios, tareas, inventario, ventas y reportes para mejorar la organización y eficiencia operativa de la empresa “Vibra Positiva Pijamas”
+
+#TECNOLOGIAS UTILIZADAS
