@@ -17,7 +17,7 @@ Basado en **Node.js** (backend) y **React** (frontend)
 
 -----------------------------------------------------------------------------------------------------------------------
 # 🧭 Contexto y Justificación  
-VIBRA POSITIVA PIJAMAS carecia se un sistema inttegral que permitiera:
+VIBRA POSITIVA PIJAMAS carecia se un sistema integral que permitiera:
 - ✅ Gestión de Usuarios que permita iniciar sesión de forma segura y asignación de privilegios según el rol
 
 - ✅Asignación y Seguimiento de Tareas para los Empleados.
