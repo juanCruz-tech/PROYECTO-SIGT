@@ -15,7 +15,7 @@ Antes, los procesos se realizaban de manera manual y verbal, lo que generaba ret
 
 Basado en Node.js (backend) y React (frontend)
 
-🧭 Contexto y Justificación
+🧭## Contexto y Justificación
 VIBRA POSITIVA PIJAMAS carecia se un sistema inttegral que permitiera:
 
 ✅ Gestión de Usuarios que permita iniciar sesión de forma segura y asignación de privilegios según el rol
