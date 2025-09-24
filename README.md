@@ -15,7 +15,7 @@ Antes, los procesos se realizaban de manera manual y verbal, lo que generaba ret
 
 Basado en Node.js (backend) y React (frontend)
 
-🧭## Contexto y Justificación
+## Contexto y Justificación
 VIBRA POSITIVA PIJAMAS carecia se un sistema inttegral que permitiera:
 
 ✅ Gestión de Usuarios que permita iniciar sesión de forma segura y asignación de privilegios según el rol
@@ -26,7 +26,7 @@ VIBRA POSITIVA PIJAMAS carecia se un sistema inttegral que permitiera:
 
 ✅Gestión de Reportes que permita registrar, monitorear, y analizar el rendimiento laboral y Stock.
 
-🚀 Características Principales
+## Características Principales
 🔐 Autenticación Segura: Uso de tokens JWT, encriptación de contraseñas con hash (bcrypt) y validaciones estrictas.
 👥 Gestión de Roles:
 SuperAdmin: ÚNICO rol que puede eliminar o crear administradores.
@@ -39,7 +39,7 @@ Empleado: Puede mirar las tareas qe le corresponden.
 📈 Reportes y Métricas: Generación de informes de productos más vendidos, historial de movimientos y devoluciones.
 🧾 Historial Completo: Consultas de entradas, salidas y devoluciones por fecha, producto o usuario.
 🎨 Interfaz Moderna y Responsiva: Construida con React, HTML5 y CSS3.
-🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 Frontend: React , Bootstrap 5, CSS
 Backend: Node.js,
 Base de Datos: MySQL
