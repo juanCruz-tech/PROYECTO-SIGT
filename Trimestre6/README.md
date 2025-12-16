@@ -43,4 +43,3 @@ Empleado: Puede mirar las tareas qe le corresponden.
 Frontend: React , Bootstrap 5, CSS
 Backend: Node.js,
 Base de Datos: MySQL
-
